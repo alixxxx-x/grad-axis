@@ -4,3 +4,4 @@ jwt-decode
 tailwindcss
 postcss
 autoprefixer
+@tailwindcss/postcss
