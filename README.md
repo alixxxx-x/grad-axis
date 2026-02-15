@@ -1,11 +1,11 @@
-# Project – Internship Management Platform
+# interShip! – Internship Management Platform
 
 ## Unit
 L3TI Workshop  
 Academic Year: 2025–2026  
 
 ## Project Title
-Project – Internship Management Platform
+interShip! – Internship Management Platform
 
 ---
 
